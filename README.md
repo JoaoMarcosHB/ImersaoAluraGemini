@@ -8,17 +8,17 @@ Este projeto é um buscador de café simples e intuitivo, desenvolvido com HTML,
 * **CSS:** Estilização visual da página.
 * **JavaScript:** Lógica para a pesquisa e exibição dos resultados.
 
-##Estrutura de Arquivos
+## Estrutura de Arquivos
 * **index.html:** Página principal do projeto.
 * **styles.css:** Arquivo de estilos CSS para customizar a aparência visual.
 * **script.js:** Arquivo JavaScript com a lógica da aplicação.
 * **dados.js:** Arquivo JSON contendo os dados dos cafés (título, descrição, imagem, tags, link).
 * **images:** Pasta para armazenar as imagens dos cafés.
 
-##Funcionamento
+## Funcionamento
 O JavaScript lê os dados do arquivo dados.js e realiza uma pesquisa simples baseado na entrada do usuário. Os resultados são então renderizados na página HTML, exibindo as informações relevantes para cada café encontrado.
 
-##Contribuindo
+## Contribuindo
 Contribuições são bem-vindas! Para contribuir com este projeto:
 
 * Fork este repositório.
