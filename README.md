@@ -12,7 +12,7 @@ Este projeto é um buscador de café simples e intuitivo, desenvolvido com HTML,
 * **index.html:** Página principal do projeto.
 * **styles.css:** Arquivo de estilos CSS para customizar a aparência visual.
 * **script.js:** Arquivo JavaScript com a lógica da aplicação.
-* **dados.js:** Arquivo JSON contendo os dados dos cafés (título, descrição, imagem, tags, link).
+* **dados.js:** Arquivo JavaScript contendo os dados dos cafés (título, descrição, imagem, tags, link).
 * **images:** Pasta para armazenar as imagens dos cafés.
 
 ## Funcionamento
